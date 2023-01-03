@@ -28,8 +28,8 @@
     TODO: implement register readers - should we also set internal variables from them?
 */
 
-#ifndef FIRECHIP_MAX14521E_H
-#define FIRECHIP_MAX14521E_H
+#ifndef FC0001614614_H
+#define FC0001614614_H
 
 #include <Arduino.h>
 #include <Wire.h>
