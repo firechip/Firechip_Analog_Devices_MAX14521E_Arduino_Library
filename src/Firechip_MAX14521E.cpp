@@ -24,7 +24,7 @@
 
 *****************************************************************************************/
 
-#include "MAX14521E.h"
+#include "Firechip_MAX14521E.h"
 
 Firechip_MAX14521E::Firechip_MAX14521E(uint8_t address)
 {
