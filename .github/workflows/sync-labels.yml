@@ -129,7 +129,7 @@ jobs:
 
       - name: Sync labels
         env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACCESS_TOKEN: ${{ secrets.GH_REPO_TOKEN }}
         run: |
           # See: https://github.com/Financial-Times/github-label-sync
           github-label-sync \
