@@ -1,6 +1,6 @@
 {
   "name": "MAX14521E",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quad, High-Voltage EL Lamp Driver with I²C Interface",
   "keywords": "MAX14521E, ADI, Lamp, Driver, I2C",
   "repository": {
