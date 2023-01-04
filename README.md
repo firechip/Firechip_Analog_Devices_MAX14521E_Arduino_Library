@@ -6,6 +6,7 @@
 [![Check Arduino](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/check-arduino.yml/badge.svg)](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/check-arduino.yml)
 [![Report Size Deltas](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/report-size-deltas.yml/badge.svg)](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/report-size-deltas.yml)
 [![Compile Examples](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/compile-examples.yml/badge.svg)](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/compile-examples.yml)
+[![CodeQL](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/codeql.yml/badge.svg)](https://github.com/firechip/Firechip_Analog_Devices_MAX14521E_Arduino_Library/actions/workflows/codeql.yml)
 
 The MAX14521E is a quad-output high-voltage DC-AC converter that drives four electroluminescent (EL) lamps. The device features a 2.7V to 5.5V input range that allows the device to accept a variety of voltage sources such as single-cell lithium-ion (Li+) batteries. The lamp outputs of the device generate up to 300VP-P for maximum lamp brightness. The high-voltage outputs are ESD protected up to ±15kV Human Body Model (HBM), ±6kV Contact Discharge, and ±8kV Air Gap Discharge, as specified in IEC 61000-4-2.
 
