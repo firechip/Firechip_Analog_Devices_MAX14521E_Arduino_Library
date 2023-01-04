@@ -6,7 +6,7 @@ inputs:
     required: false
     default: ''
   platform:  
-    description: 'platform name(s), which shoud be installed'
+    description: 'platform name(s), which should be installed'
     required: true
     default: 'arduino:avr'
     
