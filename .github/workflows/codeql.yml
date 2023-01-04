@@ -93,7 +93,7 @@ jobs:
       uses: ./.github/actions/arduino-cli
       with:
         boardurl: ${{ matrix.boardurl }}
-        plattform: ${{ matrix.arduino-platform }}
+        platform: ${{ matrix.arduino-platform }}
 
     - name: Static link
       run:
