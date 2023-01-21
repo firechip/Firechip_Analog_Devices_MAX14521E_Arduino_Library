@@ -1,7 +1,7 @@
 The MIT License (MIT)
 ---------------------
 
-Copyright © 2023 Alexander Salas Bastidas
+Copyright © 2023 Firechip
 
 Copyright © 2015 Chris Hamilton
 
